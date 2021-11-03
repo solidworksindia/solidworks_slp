@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #555151;
+  color: rgba(233, 42, 58, 0.9);
 }
 
 a {
@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .dropdown ul a {
   padding: 10px 20px;
-  color: #2a2c39;
+  color:rgba(233, 42, 58, 0.9);
   margin: 0 5px;
   font-size: 14px;
 }
@@ -221,7 +221,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(20, 21, 28, 0.9);
+  background: rgba(233, 42, 58, 0.9);
   transition: 0.3s;
   z-index: 999;
 }
@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 20px;
   margin: 5px;
   font-size: 15px;
-  color: #2a2c39;
+  color: rgba(233, 42, 58, 0.9);
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #fff;
@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
   visibility: visible;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  box-shadow: 0px 0px 30px rgba(233, 42, 58, 0.9);
 }
 .navbar-mobile .dropdown ul li {
   min-width: 200px;
@@ -289,7 +289,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background: linear-gradient(0deg, #2a2c39 0%, #33364a 100%);
+  background: linear-gradient(0deg, #641212 0%, #da1949 100%);
   padding: 0;
 }
 #hero .carousel-container {
@@ -1335,7 +1335,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #14151c;
+  background: #e01b1be5;
   color: #fff;
   font-size: 14px;
   text-align: center;
@@ -1374,7 +1374,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #bd5102;
+  background: rgba(233, 42, 58, 0.9);
   color: #fff;
   text-decoration: none;
 }
@@ -1385,7 +1385,3 @@ section {
   font-size: 13px;
 }
 
-.video-fluid {
-  width: 50%;
-  height: auto;
-}
