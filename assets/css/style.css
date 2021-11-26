@@ -1350,6 +1350,7 @@ section {
   padding: 0;
   margin: 0 0 15px 0;
 }
+
 #footer p {
   font-size: 15;
   font-style: italic;
@@ -1362,7 +1363,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #682323;
+  background: #410909;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1374,7 +1375,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #2a2c39;
+  background: #ddd6d6;
   color: #fff;
   text-decoration: none;
 }
